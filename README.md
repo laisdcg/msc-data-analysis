@@ -16,7 +16,7 @@ The scripts are organized to cover the following methodological steps:
 1. **Data Mining & Processing:** Downloading and preparing public datasets from the Gene Expression Omnibus (GEO), specifically: `GSE117769`, `GSE205748`, `GSE221786`, and `GSE186063`.
 2. **Differential Gene Expression (DEG):** Rigorous statistical analyses using `DESeq2`, `limma`, and `edgeR` packages, paired with data visualizations using `ggplot2`, `pheatmap`, and `ComplexHeatmap`.
 3. **Weighted Gene Co-expression Network Analysis (WGCNA):** Clustering genes into functionally correlated modules.
-4. **Functional Enrichment Analysis:** Gene Ontology (GO) and biological pathway analysis (KEGG/Reactome) using `clusterProfiler`, `topGO`, and `ReactomePA`.
+4. **Functional Enrichment Analysis:** Gene Ontology (GO) and biological pathway analysis (KEGG) using `clusterProfiler` and `topGO`.
 5. **Gene Regulatory Network (GRN) Reconstruction:** Integrating Gene-Transcription Factor (TF) interactions based on transcription factor binding motif mapping.
 6. **Network Topology Analysis:** Utilizing `igraph` and `ggraph` for centrality inferences to discover:
    * **Hubs:** Highly connected genes within the network.
