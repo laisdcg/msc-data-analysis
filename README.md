@@ -43,7 +43,7 @@ The project was entirely developed in **R** (version 4.x or higher). The key pac
 ## 🎓 Academic Reference
 
 * **Thesis Title:** Beyond the Shared Inflammatory Axis: Differentiating Molecular Signatures in Psoriatic Arthritis and Ankylosing Spondylitis through Integrated Omics.
-* **Author:** Laís de Carvalho Gonçalves
+* **Author:** MSc. Laís de Carvalho Gonçalves
 * **Advisor:** Prof. Dr. João Paulo Matos Santos Lima
 * **Institution:** Universidade Federal do Rio Grande do Norte
 
